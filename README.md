@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Ballini Soundarya Muralikrishnan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ballini19&color=red" alt="otavio-sousa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ballini19&color=blue" alt="otavio-sousa" /> </p>
 Welcome to my GitHub profile!!
 
 I'm Ballini Soundarya Muralikrishnan, a Computer Science major at VIT Vellore University. Explore my repositories to find projects related to AI, machine learning, deep learning, Natural language processing, IOT, Generative AI, web and mobile applications.
